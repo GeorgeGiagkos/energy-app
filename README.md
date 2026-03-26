@@ -1,4 +1,4 @@
-# i4energy — Asset Monitoring Dashboard (Assignment)
+# Asset Monitoring Dashboard (Assignment)
 
 ## Overview
 
